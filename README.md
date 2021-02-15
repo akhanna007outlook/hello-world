@@ -1,1 +1,3 @@
 # hello-world
+Hi there,
+Human here, I like C#, Azure cloud, devops, SQL, AWS and few things inbetween...
